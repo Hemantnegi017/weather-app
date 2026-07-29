@@ -184,4 +184,4 @@ async function fetchSearchWeatherInfo(city) {
        loadingScreen.classList.remove("active");
        errorContainer.classList.add("active");
     }
-}
+} 

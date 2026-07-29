@@ -239,32 +239,3 @@ h1{
     height: 150px;
     margin-bottom: 1rem;
 }
-
-@media(max-width:600px){
-    h1{
-        font-size: 1.5rem;
-    }
-    .tab-container{
-        margin-top: 2rem;
-    }
-
-    .weather-container{
-        margin-top:2rem;
-    }
-
-
-    .user-info-container p[data-temp]{
-        font-size:2rem;
-    }
-
-
-    .parameter-container{
-        flex-direction:column;
-    }
-
-
-    .parameter{
-        width:80%;
-    }
-
-}
