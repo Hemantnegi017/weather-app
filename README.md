@@ -4,7 +4,7 @@ A responsive weather application that shows real-time weather information for an
 
 ## Features
 
-- Search weather by city name
+- Search weather by city name 
 - Get current location weather
 - Shows temperature, humidity, wind speed
 - Weather condition icons
@@ -13,6 +13,8 @@ A responsive weather application that shows real-time weather information for an
 
 ## Technologies Used
 
+Built with -
+ 
 - HTML
 - CSS
 - JavaScript
